@@ -67,5 +67,5 @@ websockets==10.4
 wsproto==1.2.0
 zipp==3.17.0
 zstandard==0.21.0
-pymysql==1.1.0
+pymysql==1.1.1
 SQLAlchemy==2.0.22
