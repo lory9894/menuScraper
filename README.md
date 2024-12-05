@@ -39,7 +39,7 @@ Creare un file `cookies.json` con la seguente struttura:
 ]
 ```
 credo che bastino solo questi tre cookie `xs`, `c_user` e `datr`, ma non nel dubbio usare una estensione per il browser che permetta di esportare tutti i cookie di un sito in un file json.
-[https://github.com/ysard/cookie-quick-manager]{cookie-quick-manager} disponibile per firefox e chrome.
+[cookie-quick-manager](https://github.com/ysard/cookie-quick-manager) disponibile per firefox e chrome.
 
 ### database
 modificare il metodo main del file `bot.py` specificando all'interno del comando create_engine il database che si vuole usare. 
